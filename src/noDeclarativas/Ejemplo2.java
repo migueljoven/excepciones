@@ -14,6 +14,7 @@ public class Ejemplo2 {
 		if (denominador !=0){
 			int resultado = numerador/denominador;
 		}
+		
 	}
 
 }

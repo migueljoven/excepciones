@@ -24,6 +24,7 @@ public class TestComputadora {
 				System.out.println("Dirección MAC errónea");
 			}
 		}
+		System.out.println(lista);
 
 	}
 

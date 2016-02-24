@@ -30,7 +30,7 @@ public class Computadora {
 	 */
 	@Override
 	public String toString() {
-		return "Computadora [nombre=" + nombre + ", hd=" + hd + "GHz, ram=" + ram + "GB, mac=" + formatearMAC() + "]";
+		return "Computadora [nombre=" + nombre + ", hd=" + hd + "GB, ram=" + ram + "GB, mac=" + formatearMAC() + "]";
 	}
 	private String formatearMAC(){
 		String mac="";
